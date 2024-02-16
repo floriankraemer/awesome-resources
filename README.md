@@ -71,6 +71,8 @@ This is a collection of useful resources that taught me somethign or that I find
   * [Microservice Architecture - by Chris Richardson](https://microservices.io/) - Everything about Microservices & Distributed Systems
   * [Eventmodeling.org](https://eventmodeling.org/) - Event Modeling is a method of describing systems using an example of how information has changed within them over time.
   * [Connascence.io](https://connascence.io/strength.html) - Connascence is a software quality metric & a taxonomy for different types of coupling.
+  * [Impactmapping.org](https://www.impactmapping.org/) - Impact maps show assumptions and a connection between business goals, impacts on users and stakeholders, and team deliverables.
+  * [Wardley Mapping](https://learnwardleymapping.com/)
 
 ### News
 
