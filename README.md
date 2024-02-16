@@ -1,17 +1,20 @@
 # Awesome Development & Software Architecture Links
 
+This is a collection of useful resources that taught me somethign or that I find very useful and good.
+
 ## Libraries
 
 ### The Criteria for selecting a Library
 
   * **SHOULD NOT** have additional dependencies, the fewer the better.
   * **MUST** do just one thing and do it right instead of many (SRP).
-  * **SHOULD** support the most recent PHP version.
   * **MUST** have tests.
-  * **SHOULD** follow PSR2 and PSR12.
-  * **SHOULD** follow PSR in general.
+  * PHP
+    * **SHOULD** follow PSR2 and PSR12.
+    * **SHOULD** follow PSR in general.
+    * **SHOULD** support the most recent PHP version.
 
-### Libraries
+### PHP Libraries
 
   * [Prooph Event Store](https://github.com/prooph/event-store) - Prooph Event Story Library
   * [Nyholm PSR7 Server](https://github.com/Nyholm/psr7-server) - PSR7 Server Library
@@ -75,7 +78,7 @@
   * [InfoQ](https://www.infoq.com/)
   * [Dzone](https://dzone.com/)
 
-## Frameworks
+## Uncommon PHP Frameworks
 
 The framework listed here are explicitly not the well known big ones.
 
