@@ -101,3 +101,26 @@ The framework listed here are explicitly not the well known big ones.
 
   * [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect) - The Lindy effect (also known as Lindy's Law[1]) is a theorized phenomenon by which the future life expectancy of some non-perishable things, like a technology or an idea, is proportional to their current age.
   * [Conways's Law](https://en.wikipedia.org/wiki/Conway%27s_law) - Conway's law is an adage linking the communication structure of organizations to the systems they design.
+
+## People to follow on Twitter / X
+
+* Alberto Brandolini [@ziobrando](https://twitter.com/ziobrando)
+* Amichai Mantinband [@amantinband](https://twitter.com/amantinband)
+* Daniel Bryant [@danielbryantuk](https://twitter.com/danielbryantuk)
+* Dan Patrascu [@danpdc](https://twitter.com/danpdc)
+* Derek Comartin [@codeopinion](https://twitter.com/codeopinion)
+* EDExplore DDD Conference. 
+* Eduardo da Silva [@emgsilva](https://twitter.com/emgsilva)
+* Eric Evans [@ericevans0](https://twitter.com/ericevans0)
+* EventModeling [@EventModeling](https://twitter.com/EventModeling)
+* Frank de Jonge [@frankdejonge](https://twitter.com/frankdejonge)
+* Greg Young [@gregyoung](https://twitter.com/gregyoung)
+* KanDDDinsky Conference [@KanDDDinsky](https://twitter.com/KanDDDinsky)
+* Kevlin Henney [@KevlinHenney](https://twitter.com/KevlinHenney)
+* Manuel Pais [@manupaisable](https://twitter.com/manupaisable)
+* Martin Fowler [@martinfowler](https://twitter.com/martinfowler)
+* Matthias Noback [@matthiasnoback](https://twitter.com/matthiasnoback)
+* Michael Plöd [@bitboss](https://twitter.com/bitboss)
+* Ross Tuck [@rosstuck](https://twitter.com/rosstuck)
+* Uncle Bob Martin [@unclebobmartin](https://twitter.com/unclebobmartin)
+* Vaughn Vernon [@VaughnVernon](https://twitter.com/VaughnVernon)
