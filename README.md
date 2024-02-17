@@ -109,7 +109,7 @@ The framework listed here are explicitly not the well known big ones.
 * Daniel Bryant [@danielbryantuk](https://twitter.com/danielbryantuk)
 * Dan Patrascu [@danpdc](https://twitter.com/danpdc)
 * Derek Comartin [@codeopinion](https://twitter.com/codeopinion)
-* EDExplore DDD Conference. 
+* Explore DDD Conference. [@exploreddd](https://twitter.com/exploreddd)
 * Eduardo da Silva [@emgsilva](https://twitter.com/emgsilva)
 * Eric Evans [@ericevans0](https://twitter.com/ericevans0)
 * EventModeling [@EventModeling](https://twitter.com/EventModeling)
