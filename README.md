@@ -47,6 +47,9 @@ This is a collection of useful resources that taught me somethign or that I find
   * [Continious Delivery](https://www.youtube.com/@ContinuousDelivery) by [Dave Farley](https://www.davefarley.net/)
   * [MilanJovanovicTech - Architecture Basics & c#](https://www.youtube.com/@MilanJovanovicTech)
 
+### Other
+  * [Clean Coders](https://www.youtube.com/@Cleancoders)
+
 ## Books
 
 ### Architecture
