@@ -6,10 +6,11 @@ This is a collection of useful resources that taught me somethign or that I find
 
 ### The Criteria for selecting a Library
 
-  * **SHOULD NOT** have additional dependencies, the fewer the better.
-  * **MUST** do just one thing and do it right instead of many (SRP).
-  * **MUST** have tests.
-  * PHP
+  * Generic criteria:
+    * **SHOULD NOT** have additional dependencies, the fewer the better.
+    * **MUST** do just one thing and do it right instead of many (SRP).
+    * **MUST** have tests.
+  * PHP specific Criteria:
     * **SHOULD** follow PSR2 and PSR12.
     * **SHOULD** follow PSR in general.
     * **SHOULD** support the most recent PHP version.
