@@ -43,9 +43,9 @@ This is a collection of useful resources that taught me somethign or that I find
   * [DDD Europe Conference Talks](https://www.youtube.com/@ddd_eu)
 
 ### People
-  * [Code Opinion - Software Architecture](https://www.youtube.com/@CodeOpinion) by [Derek Comartin](https://codeopinion.com/)
-  * [Continious Delivery](https://www.youtube.com/@ContinuousDelivery) by [Dave Farley](https://www.davefarley.net/)
-  * [MilanJovanovicTech - Architecture Basics & c#](https://www.youtube.com/@MilanJovanovicTech)
+  * [Code Opinion - Software Architecture](https://www.youtube.com/@CodeOpinion) Architecture and c#, by [Derek Comartin](https://codeopinion.com/)
+  * [Continious Delivery](https://www.youtube.com/@ContinuousDelivery) CI/CD focused, by [Dave Farley](https://www.davefarley.net/)
+  * [MilanJovanovicTech](https://www.youtube.com/@MilanJovanovicTech) Architecture basics & c#, by Milan Jovanovic.
 
 ### Other
   * [Clean Coders](https://www.youtube.com/@Cleancoders)
