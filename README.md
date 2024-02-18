@@ -62,6 +62,11 @@ This is a collection of useful resources that taught me somethign or that I find
   * [Design Patterns. Elements of Reusable Object-Oriented Software](https://www.amazon.de/-/en/Erich-Gamma/dp/0201633612) by Erich Gamma, Richard Helm, Ralph E. Johnson, John Vlissides.
   * [Team Topologies](https://www.amazon.de/-/en/Team-Topologies-Organizing-Business-Technology/dp/1942788819) by Matthew Skelton & Manuel Pais.
 
+### UX
+
+  * [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.de/-/en/Steve-Krug/dp/0321657292) by Steve Krug.
+  * [Humane Interface, The: New Directions for Designing Interactive Systems](https://www.oreilly.com/library/view/humane-interface-the/0201379376/) by Jef Raskin.
+
 ### Leadership
 
   * [The Five Dysfunctions of a Team](https://www.amazon.de/dp/0787960756) by Patrick Lencioni is a book about team building and team work.
