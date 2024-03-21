@@ -37,6 +37,12 @@ This is a collection of useful resources that taught me somethign or that I find
 * [gh-ci](https://cli.github.com/) - Github for the CLI
 * [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
 
+## Architecture
+
+* [draw.io](https://www.drawio.com/) - Open Source Diagram Tool.
+* [Archi](https://www.archimatetool.com/) - The Open Source modelling toolkit for creating ArchiMate models and sketches
+* [Arc42](https://arc42.org/) - All you ever need to construct, communicate and document your software architecture.
+
 ## Youtube
 
 ### Conference Talks
