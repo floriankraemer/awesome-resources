@@ -25,6 +25,7 @@ This is a collection of useful resources that taught me somethign or that I find
 * [JSON API](https://github.com/json-api-php/json-api)
 * [Automapper](https://github.com/janephp/automapper) - PHP version of the c# Automapper library, an object mapper.
 * [AutoShell](https://github.com/pmjones/AutoShell) - A shell without further dependencies. I/O not included (use something like CLImate).
+* [API Platform](https://api-platform.com/) - A Symfony based API framework / boilerplate.
 
 ## Dev Tools
 
@@ -96,8 +97,9 @@ This is a collection of useful resources that taught me somethign or that I find
 
 The framework listed here are explicitly not the well known big ones.
 
-* [Spiral](https://spiral.dev/) - Elegant high-performance framework + Roadrunner
-* [Hyperf](https://github.com/hyperf/hyperf) - Co-routine based framwork (requires Swoole) that also features AOP (optionally)
+* [Spiral](https://spiral.dev/) - Elegant high-performance framework + Roadrunner.
+* [Hyperf](https://github.com/hyperf/hyperf) - Co-routine based framwork (requires Swoole) that also features AOP (optionally).
+* [Goaop](https://github.com/goaop/framework) - An aspect-Oriented Framework for PHP that doesn't require any PECL-extentions.
 
 ## Alternative PHP Servers
 
