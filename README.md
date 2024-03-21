@@ -1,6 +1,6 @@
 # Awesome Development & Software Architecture Resources
 
-This is a collection of useful resources that taught me somethign or that I find very useful and good.
+This is a collection of useful resources that taught me somethign or that I find very useful and good. Also, kind of a noteblock for myself.
 
 ## Libraries
 
