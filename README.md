@@ -42,6 +42,8 @@ This is a collection of useful resources that taught me somethign or that I find
 * [draw.io](https://www.drawio.com/) - Open Source Diagram Tool.
 * [Archi](https://www.archimatetool.com/) - The Open Source modelling toolkit for creating ArchiMate models and sketches
 * [Arc42](https://arc42.org/) - All you ever need to construct, communicate and document your software architecture.
+* [iSAQB](https://www.isaqb.org/) - The International Software Architecture Qualification Board (iSAQB®) brings together professional software architecture experts from industry, consulting, training, academia, and other organizations.
+* [TOGAF](https://www.opengroup.org/togaf) - The Open Group Architecture Framework
 
 ## Youtube
 
