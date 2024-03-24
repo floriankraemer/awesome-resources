@@ -159,3 +159,8 @@ The framework listed here are explicitly not the well known big ones.
 * Ross Tuck [@rosstuck](https://twitter.com/rosstuck)
 * Uncle Bob Martin [@unclebobmartin](https://twitter.com/unclebobmartin)
 * Vaughn Vernon [@VaughnVernon](https://twitter.com/VaughnVernon)
+
+## Windows Tools
+
+* [Scoop](https://scoop.sh/) - Command line package manager
+* [Chocolaty](https://chocolatey.org/) - Package manager
