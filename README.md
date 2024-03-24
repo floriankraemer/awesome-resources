@@ -2,9 +2,11 @@
 
 This is a collection of useful resources that taught me somethign or that I find very useful and good. Also, kind of a noteblock for myself.
 
-## Libraries
+## PHP
 
-### The Criteria for selecting a Library
+### PHP Libraries
+
+The criterias for selecting a Library:
 
 * Generic criteria:
   * **SHOULD NOT** have additional dependencies, the fewer the better.
@@ -14,8 +16,8 @@ This is a collection of useful resources that taught me somethign or that I find
   * **SHOULD** follow PSR2 and PSR12.
   * **SHOULD** follow PSR in general.
   * **SHOULD** support the most recent PHP version.
-
-### PHP Libraries
+ 
+---
 
 * [Prooph Event Store](https://github.com/prooph/event-store) - Prooph Event Story Library
 * [Nyholm PSR7 Server](https://github.com/Nyholm/psr7-server) - PSR7 Server Library
@@ -27,7 +29,7 @@ This is a collection of useful resources that taught me somethign or that I find
 * [AutoShell](https://github.com/pmjones/AutoShell) - A shell without further dependencies. I/O not included (use something like CLImate).
 * [API Platform](https://api-platform.com/) - A Symfony based API framework / boilerplate.
 
-## Dev Tools
+### PHP Dev Tools
 
 * [phpunit](https://github.com/sebastianbergmann/phpunit) - Unit testing
 * [phpcs / phpcbf](https://github.com/squizlabs/PHP_CodeSniffer) - Code Sniffer and Auto-Fixer
@@ -36,6 +38,30 @@ This is a collection of useful resources that taught me somethign or that I find
 * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
 * [gh-ci](https://cli.github.com/) - Github for the CLI
 * [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
+
+### Alternative PHP Servers
+
+* [FrankenPHP](https://frankenphp.dev/) - A PHP server written in GO.
+* [Roadrunner](https://github.com/roadrunner-server/roadrunner) - A PHP Server written in Go.
+
+### Uncommon PHP Frameworks
+
+The framework listed here are explicitly not the well known big ones.
+
+* [Spiral](https://spiral.dev/) - Elegant high-performance framework + Roadrunner.
+* [Hyperf](https://github.com/hyperf/hyperf) - Co-routine based framwork (requires Swoole) that also features AOP (optionally).
+* [Goaop](https://github.com/goaop/framework) - An aspect-Oriented Framework for PHP that doesn't require any PECL-extentions.
+
+## Java
+
+### Frameworks
+
+* [Spring Boot](https://spring.io/) - The Spring Boot Framework
+* [OSGi](https://www.osgi.org/) - The Dynamic Module System for Java
+
+### Tools
+
+* [SDK Man](https://sdkman.io/) - The Software Development Kit Manager (Linux or WSL2 only, requires Bash)
 
 ## Architecture
 
@@ -100,19 +126,6 @@ This is a collection of useful resources that taught me somethign or that I find
 * [Reddits PHP Section](https://www.reddit.com/r/PHP/) - Reddits PHP section.
 * [InfoQ](https://www.infoq.com/)
 * [Dzone](https://dzone.com/)
-
-## Uncommon PHP Frameworks
-
-The framework listed here are explicitly not the well known big ones.
-
-* [Spiral](https://spiral.dev/) - Elegant high-performance framework + Roadrunner.
-* [Hyperf](https://github.com/hyperf/hyperf) - Co-routine based framwork (requires Swoole) that also features AOP (optionally).
-* [Goaop](https://github.com/goaop/framework) - An aspect-Oriented Framework for PHP that doesn't require any PECL-extentions.
-
-## Alternative PHP Servers
-
-* [FrankenPHP](https://frankenphp.dev/) - A PHP server written in GO.
-* [Roadrunner](https://github.com/roadrunner-server/roadrunner) - A PHP Server written in Go.
 
 ## Companies practicing and promoting DDD & good software architecture
 
