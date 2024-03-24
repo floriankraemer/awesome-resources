@@ -62,6 +62,7 @@ The framework listed here are explicitly not the well known big ones.
 ### Tools
 
 * [SDK Man](https://sdkman.io/) - The Software Development Kit Manager (Linux or WSL2 only, requires Bash)
+* [pgAdmin](https://www.pgadmin.org/) - Posgres Admin Tool
 
 ## Architecture
 
