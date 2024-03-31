@@ -31,13 +31,19 @@ The criterias for selecting a Library:
 
 ### PHP Dev Tools
 
-* [phpunit](https://github.com/sebastianbergmann/phpunit) - Unit testing
-* [phpcs / phpcbf](https://github.com/squizlabs/PHP_CodeSniffer) - Code Sniffer and Auto-Fixer
-* [grumphp](https://github.com/phpro/grumphp) - Pre-Commit Checks using different tools
-* [phpstan](https://github.com/phpstan/phpstan) - Static Analyzer
-* [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
-* [gh-ci](https://cli.github.com/) - Github for the CLI
-* [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
+* CI/CD
+  * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
+  * [gh-ci](https://cli.github.com/) - Github for the CLI
+  * [grumphp](https://github.com/phpro/grumphp) - Pre-Commit Checks using different tools
+* Testing
+  * [phpunit](https://github.com/sebastianbergmann/phpunit) - Unit testing
+* Debugging
+  * [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
+* Architecture:
+  * [phpstan](https://github.com/phpstan/phpstan) - Static Analyzer
+  * [phpcs / phpcbf](https://github.com/squizlabs/PHP_CodeSniffer) - Code Sniffer and Auto-Fixer
+  * [PHPArkitect](https://github.com/phparkitect/arkitect) - Hou to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow.
+  * [phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester
 
 ### Alternative PHP Servers
 
