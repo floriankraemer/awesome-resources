@@ -35,6 +35,7 @@ The criterias for selecting a Library:
   * [phive](https://github.com/phar-io/phive) - The Phar Installation and Verification Environment (PHIVE)
   * [gh-ci](https://cli.github.com/) - Github for the CLI
   * [grumphp](https://github.com/phpro/grumphp) - Pre-Commit Checks using different tools
+  * [nektos/act](https://github.com/nektos/act) - Run Github Workflows locally
 * Testing
   * [phpunit](https://github.com/sebastianbergmann/phpunit) - Unit testing
 * Debugging
