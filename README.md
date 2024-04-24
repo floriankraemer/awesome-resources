@@ -42,6 +42,7 @@ The criterias for selecting a Library:
   * [kint](https://github.com/kint-php/kint) - Debuggin Utility with zero dependenices
 * Architecture:
   * [phpstan](https://github.com/phpstan/phpstan) - Static Analyzer
+  * [composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - Detects unused, shadow and misplaced composer dependencies.
   * [phpcs / phpcbf](https://github.com/squizlabs/PHP_CodeSniffer) - Code Sniffer and Auto-Fixer
   * [PHPArkitect](https://github.com/phparkitect/arkitect) - Hou to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow.
   * [phpat](https://github.com/carlosas/phpat) - PHP Architecture Tester
