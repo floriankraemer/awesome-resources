@@ -79,6 +79,9 @@ The framework listed here are explicitly not the well known big ones.
 * [Arc42](https://arc42.org/) - All you ever need to construct, communicate and document your software architecture.
 * [iSAQB](https://www.isaqb.org/) - The International Software Architecture Qualification Board (iSAQB®) brings together professional software architecture experts from industry, consulting, training, academia, and other organizations.
 * [TOGAF](https://www.opengroup.org/togaf) - The Open Group Architecture Framework
+* [BPMN, DMN and Form Builder](https://bpmn.io/) - Web-based tooling for BPMN, DMN and Forms.
+* [Egon](https://github.com/WPS/egon.io) - A Domain Story Modeller.
+  * [Online Version](https://egon.io/app/)
 
 ## Youtube
 
