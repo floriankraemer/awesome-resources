@@ -90,6 +90,7 @@ The framework listed here are explicitly not the well known big ones.
 * [KanDDDisnky Conference Talks](https://www.youtube.com/@KanDDDinsky)
 * [NDC Conference Talks](https://www.youtube.com/@ndc)
 * [DDD Europe Conference Talks](https://www.youtube.com/@ddd_eu)
+* [GOTO Conferences](https://www.youtube.com/@GOTO-)
 
 ### People
 
