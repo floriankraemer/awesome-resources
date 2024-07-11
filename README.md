@@ -94,6 +94,7 @@ The framework listed here are explicitly not the well known big ones.
 
 ### People
 
+* [Eberhard Wolf](https://www.youtube.com/@EberhardWolff) Software Architecture Topics by Eberhard Wolf (in German)
 * [Code Opinion - Software Architecture](https://www.youtube.com/@CodeOpinion) Architecture and c#, by [Derek Comartin](https://codeopinion.com/)
 * [Continious Delivery](https://www.youtube.com/@ContinuousDelivery) CI/CD focused, by [Dave Farley](https://www.davefarley.net/)
 * [MilanJovanovicTech](https://www.youtube.com/@MilanJovanovicTech) Architecture basics & c#, by Milan Jovanovic.
