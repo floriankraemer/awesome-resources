@@ -47,6 +47,11 @@ This is a collection of useful resources that taught me somethign or that I find
 * [Wardley Mapping](https://learnwardleymapping.com/)
 * [Event Storming](https://www.eventstorming.com/) - Offical Event Storming Website by Alberto Brandolini.
 
+### Conference Websites
+
+* [Explore DDD](https://exploreddd.com/)
+* [DDD Europe](https://dddeurope.com/)
+
 ### News
 
 * [Reddits PHP Section](https://www.reddit.com/r/PHP/) - Reddits PHP section.
@@ -71,6 +76,7 @@ This is a collection of useful resources that taught me somethign or that I find
 * [NDC Conference Talks](https://www.youtube.com/@ndc)
 * [DDD Europe Conference Talks](https://www.youtube.com/@ddd_eu)
 * [GOTO Conferences](https://www.youtube.com/@GOTO-)
+* [Explore DDD Conference](https://www.youtube.com/@ExploreDDD)
 
 ### People
 
