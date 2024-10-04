@@ -190,6 +190,12 @@ The framework listed here are explicitly not the well known big ones.
 
 ## Windows Tools
 
-* [Scoop](https://scoop.sh/) - Command line package manager
-* [Chocolaty](https://chocolatey.org/) - Package manager
+* [Scoop](https://scoop.sh/) - Command line package manager.
+* [Chocolaty](https://chocolatey.org/) - Package manager.
+* [Windows Terminal](https://github.com/microsoft/terminal) - Windows Terminal.
+* [Procmon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) - Advanced Process Monitor.
+
+## Cross OS Tools
+
+* [Flameshot](https://github.com/flameshot-org/flameshot) - For Screenshots.
 
