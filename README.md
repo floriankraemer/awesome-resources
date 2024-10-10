@@ -77,6 +77,7 @@ This is a collection of useful resources that taught me somethign or that I find
 * [DDD Europe Conference Talks](https://www.youtube.com/@ddd_eu)
 * [GOTO Conferences](https://www.youtube.com/@GOTO-)
 * [Explore DDD Conference](https://www.youtube.com/@ExploreDDD)
+* [Tech Excellence](https://www.youtube.com/@TechExcellence)
 
 ### People
 
