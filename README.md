@@ -12,6 +12,7 @@ This is a collection of useful resources that taught me somethign or that I find
 * [BPMN, DMN and Form Builder](https://bpmn.io/) - Web-based tooling for BPMN, DMN and Forms.
 * [Egon](https://github.com/WPS/egon.io) - A Domain Story Modeler.
   * [Online Version](https://egon.io/app/)
+* [RESTful Objects Specification](https://www.restfulobjects.org/spec/1.0/section-a/chapter-01.html) - Restful Objects is a standard covering RESTful interfaces to domain object models. 
 
 ## Books
 
